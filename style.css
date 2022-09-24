@@ -1,0 +1,52 @@
+.S1{width: 30%;background-image:url(halie-west-25xggax4bSA-unsplash.jpg); background-size: cover; background-repeat: no-repeat; height:900px; }
+.all{display: flex; width: 100%;}
+.S2{width: 70%;}
+
+.containflex{display: flex; flex-direction: row; align-items:center; justify-content: center;}
+.logo{width: 70px; padding-right:10px;}
+.odin{color: white;}
+
+.containflex{background-color:rgba(0, 0, 0, 0.3);}
+.containflex{margin-top: 180px;}
+.containflex{background-size: 35px;}
+
+@font-face {
+    font-family: MyFirstFont;
+    src: url(Norse-Bold.otf.ttf);
+}
+.odin{font-family: Myfirstfont; color: white; font-size: 40px;}
+b{font-family:sans-serif;}
+
+.parag{width: 55%; padding-top: 150px; margin-left: 50px;} 
+
+.forforms{box-shadow: 0px 5px 8px rgba(0, 0, 0, 0.4);} 
+
+.line1{display: flex; flex-direction: row; margin-left: 50px;}
+.line2{display: flex; flex-direction: row; margin-left: 50px;}
+.line3{display: flex; flex-direction: row; margin-left: 50px;}
+
+.form1{width:100%; padding: 2px 50px; box-sizing: border-box; border-radius: 5px;}
+.form1:focus{ box-shadow: 0px 0px 10px 2px rgba(0, 0, 0, 0.15);}
+
+.form2{width:100%; padding: 2px 50px; box-sizing: border-box; border-radius: 5px;}
+.form2:focus{box-shadow: 0px 0px 10px 2px rgba(0, 0, 0, 0.2); border-color: rgb(0, 102, 255); background-color: rgb(0, 234, 255);}
+
+.form3{width: 100%; padding: 2px 50px; box-sizing: border-box; border-radius: 5px;}
+.form3:focus{ box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.15); border-color: rgb(0, 102, 255);} 
+
+.form4{ width: 100%; box-sizing: border-box; border-radius: 5px; padding: 2px 50px;}
+
+.error1{width: 100%; padding: 2px 50px; box-sizing: border-box; border-radius: 5px; border-color: rgb(255, 0, 0); } 
+
+
+.error2{ width: 100%; box-sizing: border-box; border-radius: 5px; padding: 2px 50px; border-color: rgb(255, 0, 0);}
+
+.create{background-color:#596d48; border: none; padding: 12px 55px; color: white; font-size: 16px; border-radius: 6px; margin-left: 50px;}
+
+.des{margin: 50px; margin-top: 20px; font-size: large; font-weight: 800;}
+.des em{color:#596d48; font-style: normal;}
+
+.photo{padding: auto; color: white; font-size: medium; text-align: center; margin-top: 520px;}
+
+body{padding: 0; margin: 0;}
+.all{width: 100%; height: 100%; min-width: 1000px; min-height: 1000px; margin: 0 auto;}
